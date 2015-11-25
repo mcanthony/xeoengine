@@ -1,4 +1,5 @@
 # xeoEngine
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/a834272d6bf448f7a77947d7b784f261)](https://www.codacy.com/app/lindsay-kay/xeoengine)
 
 [http://xeoengine.org](http://xeoengine.org)
 
